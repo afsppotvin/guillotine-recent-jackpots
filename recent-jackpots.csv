@@ -1,2 +1,2 @@
-InstallationId,EventNumber,EventTitle,Jackpot
+InstallationId,EventNo,EventTitle,Jackpot
 1000000,123,"Draw #123",567000
